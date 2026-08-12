@@ -1,1 +1,2 @@
 Adding dark-mode UI
+Adding option for light-mode UI with kittens
